@@ -14,3 +14,21 @@ const exampleOfUsersCollection = {
     weight: ''
   }
 }
+
+const exampleOfUsersCollectionII = {
+  name: '',
+  surname: '',
+  tel: 123123,
+  nickName: '',
+  children: [
+    {
+      name: '',
+      age: 123123,
+      gender: ''
+    }
+  ],
+  measures: {
+    height: '',
+    weight: ''
+  }
+}
