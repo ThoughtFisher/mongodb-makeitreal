@@ -19,16 +19,21 @@ const exampleOfUsersCollectionII = {
   name: '',
   surname: '',
   tel: 123123,
+  measures: {
+    height: '',
+    weight: ''
+  },
   nickName: '',
   children: [
     {
       name: '',
       age: 123123,
       gender: ''
+    },
+    {
+      name: '',
+      age: 123123,
+      gender: ''
     }
-  ],
-  measures: {
-    height: '',
-    weight: ''
-  }
+  ]
 }
